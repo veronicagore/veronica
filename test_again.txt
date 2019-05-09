@@ -1,1 +1,4 @@
 print ("am incercat sa execut commit/push din consola");
+
+
+Repetitia e mama invatarii!!!
